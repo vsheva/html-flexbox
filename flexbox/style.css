@@ -34,7 +34,6 @@ span {
     text-transform: lowercase;
 }
 
-
 @media screen and (min-width: 600px) {
     .products {
         /*display: flex;*/
